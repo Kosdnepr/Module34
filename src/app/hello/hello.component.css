@@ -1,0 +1,22 @@
+body {
+	box-sizing: border-box;
+}
+
+input {
+	width: 200px;
+	height: 30px;
+	border-radius: 3px;
+}
+
+button {
+	width: 100px;
+	height: 30px;
+	border-radius: 3px;
+	color: grey;
+	font-weight: bold;
+}
+
+button:hover {
+	background-color: silver;
+	color: white;
+}
